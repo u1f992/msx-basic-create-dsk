@@ -11,8 +11,8 @@
     "create-dsk": "src/cli.js"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Koutaro Mukai",
+  "license": "MIT",
   "description": "",
   "type": "module",
   "devDependencies": {
