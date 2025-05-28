@@ -13,7 +13,7 @@
   "keywords": [],
   "author": "Koutaro Mukai",
   "license": "MIT",
-  "description": "",
+  "description": "MSX-BASICファイル（*.bas）からディスクイメージファイル（*.dsk）を生成するスクリプト。",
   "type": "module",
   "devDependencies": {
     "prettier": "^3.5.3",
