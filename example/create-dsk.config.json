@@ -1,0 +1,9 @@
+{
+  "files": [
+    ["en.bas", "EN.BAS"],
+    ["ja.bas", "AUTOEXEC.BAS"]
+  ],
+  "proofDir": "proof",
+  "output": "result.dsk",
+  "headless": false
+}

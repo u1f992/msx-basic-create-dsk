@@ -1,0 +1,27 @@
+{
+  "name": "@u1f992/msx-basic-create-dsk",
+  "version": "0.1.0",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "example:run": "npx create-dsk --config example/create-dsk.config.json",
+    "example:clean": "shx rm -rf example/proof && shx rm -rf example/result.dsk"
+  },
+  "bin": {
+    "create-dsk": "src/cli.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "type": "module",
+  "devDependencies": {
+    "prettier": "^3.5.3",
+    "shx": "^0.4.0"
+  },
+  "dependencies": {
+    "ajv": "^8.17.1",
+    "jimp": "^1.6.0",
+    "playwright": "^1.52.0"
+  }
+}
